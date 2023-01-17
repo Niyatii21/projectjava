@@ -89,7 +89,7 @@ public class Login extends JFrame implements ActionListener {
         add(signup);
        
         
-        getContentPane().setBackground(Color.WHITE);
+        getContentPane().setBackground(Color.BLACK);
         
         
         //1.CODE FOR MAKING FRAME
